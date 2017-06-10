@@ -1,5 +1,0 @@
-﻿  server.cpp
-c:\users\69352\documents\visual studio 2017\projects\socket\server\server.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\69352\documents\visual studio 2017\projects\socket\server\server.cpp(181): warning C4018: “>=”: 有符号/无符号不匹配
-  Server.vcxproj -> C:\Users\69352\Documents\Visual Studio 2017\Projects\Socket\Debug\Server.exe
-  Server.vcxproj -> C:\Users\69352\Documents\Visual Studio 2017\Projects\Socket\Debug\Server.pdb (Partial PDB)
